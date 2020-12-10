@@ -1,4 +1,5 @@
 # Verifiable Credentials (VCs) for Factom
+![Rust](https://github.com/kompendium-ano/factom-vc-rust/workflows/Rust/badge.svg)
 
 Implemented in Rust
 
